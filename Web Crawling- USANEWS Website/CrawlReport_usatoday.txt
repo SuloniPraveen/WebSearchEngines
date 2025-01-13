@@ -1,0 +1,44 @@
+Name: Suloni Praveen
+USC ID: 6195368431
+News site crawled: usatoday.com
+Number of threads: 7
+
+Fetch Statistics:
+=================
+# fetches attempted: 20000
+# fetches succeeded: 19584
+# fetches failed or aborted: 416
+
+Outgoing URLs:
+==============
+Total URLs extracted: 4102965
+# unique URLs extracted: 1057452
+# unique URLs within News Site: 898028
+# unique URLs outside News Site: 159424
+
+Status Codes:
+=============
+200 OK: 19584
+301 Moved Permanently: 329
+302 Moved Temporarily: 3
+307 Temporary Redirect: 1
+308 null: 6
+404 Not Found: 74
+500 Internal Server Error: 3
+
+File Sizes:
+===========
+< 1KB: 9
+1KB ~ <10KB: 1438
+10KB ~ <100KB: 1323
+100KB ~ <1MB: 14999
+>= 1MB: 1815
+
+Content Types:
+==============
+image/png: 337
+text/html: 16942
+image/jpeg: 1149
+image/x-icon: 1
+image/svg+xml: 10
+image/webp: 1145
