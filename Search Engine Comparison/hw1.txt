@@ -1,0 +1,16 @@
+Observation:
+
+* I have used DuckDuckGo as the search Engine by comparing 100QueriesSet2.txt and Google_Result2.txt. I was assigned the Yahoo search engine, but I was blocked from it so I used DuckDuckGo as the search engine using the query set 2 as the last 2 digits of my USC ID fall in the range of 26-50.
+* These are the results I have obtained :
+Average Percentage Overlap: 19.4%
+Average Spearman Coefficient: -5.296
+* The average percentage overlap is around 19.4% which indicates that around 16.5% of the top 10 results in DuckDuckGo were also found on Google. It means that around roughly 2 out of 10 results were the same indicating that DuckDuckGo and Google return different results and percentage of overlap is low.
+* The average Spearman Coefficient value is -5.296 which indicates that the rank correlation is very low. The highly-ranked pages on Google are ranked low on DuckDuckGo and highly-ranked pages on DuckDuckGo are ranked low on Google.
+* Negative correlation suggests opposite or inverse ranks with respect to both search engines.
+* To conclude DuckDuckGo ranks important links and useful links lower when compared to the ranks provided by Google for the same results. Therefore DuckDuckGo performs worse than Google.
+
+
+
+
+
+
